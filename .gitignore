@@ -1,5 +1,5 @@
 *.avi
-*.pyc
+# *.pyc
 *.swp
 *.model
 log/*
