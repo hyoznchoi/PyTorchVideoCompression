@@ -20,8 +20,8 @@ tmp/*
 */snapshot/*
 examples/try*
 fullperformance/*
-*.py.*
-*.py_*
+# *.py.*
+# *.py_*
 *.bak
 *.bits
 *.rec
